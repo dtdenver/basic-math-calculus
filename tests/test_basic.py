@@ -1,5 +1,5 @@
-from myproject import greet
-from myproject.__main__ import main
+from basic_math_calculus import greet
+from basic_math_calculus.__main__ import main
 
 
 def test_greet_default():
